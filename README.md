@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### About Me
-I'm what you'll call a jack of all trades, Master of some, I spend an awful amount of time coding and debugging. And more recently I've been working on this new product called Coincord. A side project turned into a full-scale product. I wish I could feature more of it, but you can learn more about coincord here [https://coincord.co](https://coincord.co)
+I'm what you'll call a jack of all trades, Master of some, Prolific builder, and somewhat of a workaholic. I like motorcycles and chess ( I wish I could be better at chess though).
+
+I spend an awful amount of time coding and debugging. And more recently I've been working on this new product called Coincord. A side project turned into a full-scale product. I wish I could feature more of it, but you can learn more about coincord here [https://coincord.co](https://coincord.co)
 
 With that said, here's a highlight of some of my projects and their 
 
