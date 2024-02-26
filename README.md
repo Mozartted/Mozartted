@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### About Me
+I'm what you'll call a jack of all trades, Master of some, I spend an awful amount of time coding and debugging. And more recently I've been working on this new product called Coincord. A side project turned into a full-scale product. I wish I could feature more of it, but you can learn more about coincord here [https://coincord.co](https://coincord.co)
+
+With that said, here's a highlight of some of my projects and their 
+
+- 🔭 I’m currently working on Coincord, Blockchain-related projects, Opensource Web3 projects.
+- 🌱 I’m currently learning about Smart contract security.
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/chibuike-o-85b88aab/)
+- ⚡ Fun fact: I'm spending most of my time coding.
+
 <!--
 **Mozartted/Mozartted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
