@@ -5,8 +5,7 @@ I'm what you'll call a jack of all trades, Master of some, Prolific builder, and
 
 I spend an awful amount of time coding and debugging. And more recently I've been working on this new product called Coincord. A side project turned into a full-scale product. I wish I could feature more of it, but you can learn more about coincord here [https://coincord.co](https://coincord.co)
 
-With that said, here's a highlight of some of my projects and their 
-
+With that said, Here are some interesting things about me.
 - 🔭 I’m currently working on Coincord, Blockchain-related projects, Opensource Web3 projects.
 - 🌱 I’m currently learning about Smart contract security.
 - 👯 I’m looking to collaborate on open source projects.
