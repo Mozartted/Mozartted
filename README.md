@@ -3,7 +3,7 @@
 ### About Me
 I'm what you'll call a jack of all trades, Master of some, Prolific builder, and somewhat of a workaholic. I like motorcycles and chess ( I wish I could be better at chess though).
 
-I spend an awful amount of time coding and debugging. And more recently I've been working on this new product called Coincord. A side project turned into a full-scale product. I wish I could feature more of it, but you can learn more about coincord here [https://coincord.co](https://coincord.co)
+I spend an awful amount of time coding and debugging. And more recently I've been working on this new product called Coincord. A side project turned into a full-scale product. I wish I could feature more of it, but you can learn more about Ezrah (ex Coincord) here [https://ezrah.co](https://ezrah.co)
 
 With that said, Here are some interesting things about me.
 - 🔭 I’m currently working on Coincord, Blockchain-related projects, Opensource Web3 projects.
