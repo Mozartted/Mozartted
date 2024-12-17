@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ### About Me
-I'm what you'll call a jack of all trades, Master of most, Prolific builder, and somewhat of a workaholic. I like motorcycles and chess ( I wish I could be better at chess though).
+I'm what you'll call a jack of all trades, Master of most, Prolific builder (Well, On my way to being one), and somewhat of a workaholic. I like motorcycles and chess ( I wish I could be better at chess though).
 
 I spend an awful amount of time coding and debugging. And more recently I've been working on this new product called Coincord. A side project turned into a full-scale product. I wish I could feature more of it, but you can learn more about Ezrah (ex Coincord) here [https://ezrah.co](https://ezrah.co)
 
 With that said, Here are some interesting things about me.
-- 🔭 I’m currently working on Coincord, Blockchain-related projects, Opensource Web3 projects.
-- 🌱 I’m currently learning about Smart contract security.
+- 🔭 I’m currently working on Ezrah, Blockchain-related projects, Opensource Web3 projects, Fun Experiements and Rust related things.
+- 🌱 I’m currently learning about Smart contract security, Rust, UI/UX (Re-learning)
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/chibuike-o-85b88aab/)
 - ⚡ Fun fact: I'm spending most of my time coding.
