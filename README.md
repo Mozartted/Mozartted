@@ -4,7 +4,7 @@
 I'm what you'll call a jack of all trades, Master of most, Prolific builder (Well, On my way to being one), and somewhat of a workaholic. I like motorcycles and chess ( I wish I could be better at chess though).
 
 With that said, Here are some interesting things about me.
-- 🔭 I’m currently working on Ezrah, Blockchain-related projects, Opensource Web3 projects, Fun Experiements and Rust related things.
+- 🔭 Currently interested in Blockchain-related projects, Opensource Web3 projects, Fun Experiements and Rust related things.
 - 🌱 I’m currently learning about Smart contract security, Rust, UI/UX (Re-learning)
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: I'm spending most of my time coding.
