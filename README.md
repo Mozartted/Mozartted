@@ -7,7 +7,6 @@ With that said, Here are some interesting things about me.
 - 🔭 I’m currently working on Ezrah, Blockchain-related projects, Opensource Web3 projects, Fun Experiements and Rust related things.
 - 🌱 I’m currently learning about Smart contract security, Rust, UI/UX (Re-learning)
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/chibuike-o-85b88aab/)
 - ⚡ Fun fact: I'm spending most of my time coding.
 
 <!--
